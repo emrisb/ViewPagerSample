@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ViewPagerSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello AddContact fragment</string>
+    <string name="contact_list">ContactList</string>
 </resources>
